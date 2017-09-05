@@ -309,7 +309,7 @@ Entry Wire Line
 Entry Wire Line
 	3650 6550 3750 6650
 Text Label 3750 5000 0    60   ~ 0
-a[1...5]
+a[1..5]
 $Comp
 L USB_OTG P?
 U 1 1 59AF0BD4
@@ -421,4 +421,6 @@ Entry Wire Line
 	4850 4250 4950 4350
 Entry Wire Line
 	4850 4150 4950 4250
+Text Label 4850 5000 0    60   ~ 0
+b[1..5]
 $EndSCHEMATC
