@@ -421,4 +421,6 @@ Entry Wire Line
 	4850 4250 4950 4350
 Entry Wire Line
 	4850 4150 4950 4250
+Text Label 4850 5000 0    60   ~ 0
+b[1..5]
 $EndSCHEMATC
