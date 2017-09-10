@@ -368,7 +368,7 @@ Wire Wire Line
 Wire Wire Line
 	2800 1200 2800 1050
 Wire Bus Line
-	3750 4200 3750 6700
+	3750 4200 3750 6800
 Wire Wire Line
 	3250 4250 3650 4250
 Wire Wire Line
@@ -400,7 +400,7 @@ Wire Wire Line
 Wire Wire Line
 	3250 6550 3650 6550
 Wire Bus Line
-	4850 4050 4850 5150
+	4850 4050 4850 6800
 Wire Wire Line
 	5300 4250 4950 4250
 Wire Wire Line
@@ -423,4 +423,6 @@ Entry Wire Line
 	4850 4150 4950 4250
 Text Label 4850 5000 0    60   ~ 0
 b[1..5]
+Wire Bus Line
+	4850 6800 3750 6800
 $EndSCHEMATC
